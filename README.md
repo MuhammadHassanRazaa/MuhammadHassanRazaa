@@ -1,4 +1,4 @@
-## 🔭 Software Developer/ Problem Solver[![HitCount](http://hits.dwyl.com/muhammadhassanraza/https://githubcom/MuhammadHassanRazaa/MuhammadHassanRazaa.svg)](http://hits.dwyl.com/muhammadhassanraza/https://githubcom/MuhammadHassanRazaa/MuhammadHassanRazaa)
+## 🔭 Software Developer/ Problem Solver   [![HitCount](http://hits.dwyl.com/muhammadhassanraza/https://githubcom/MuhammadHassanRazaa/MuhammadHassanRazaa.svg)](http://hits.dwyl.com/muhammadhassanraza/https://githubcom/MuhammadHassanRazaa/MuhammadHassanRazaa)
 
 ` 😄 Muhammad Hassan` |  `🌱 Debrecen, Hungary` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/sshthassanraza/`
 
@@ -10,7 +10,9 @@
 A hardworking and resourceful individual seeking to work in a student as a computer scientist with the ability to persuade and convince people about computer-related works.  
 
 
-**Key skills**
+### Key skills
+
+
 💬 `C, C++, C#, Java, Python, SQL, Basic Image Processing, Basic Networking, XML, JAXB, Maven`
 
 📖 `Flask, Web Development(Beginner), JavaFX, JPA, Problem Solving, Streams, Operating Systems`
@@ -20,8 +22,8 @@ A hardworking and resourceful individual seeking to work in a student as a compu
                     
 
 I am really glad to see you here !
-Your are the Visitors since i added this profile
-Please have a look and share your thoughts.
+
+The green dots on my [**GitHub** profile](https://github.com/MuhammadHassanRazaa=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊
 
