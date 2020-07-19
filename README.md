@@ -1,4 +1,24 @@
-### Hi there 👋
+**🔭 Software Developer/ Problem Solver** HitCount
+**😄 Muhammad Hassan Raza** | 🌱 Debrecen, Hungary | linkedin logo linkedin.com/in/sshthassanraza/
+
+**Hi there 👋**
+A hardworking and resourceful individual seeking to work in a student as a computer scientist with the ability to persuade and convince people about computer-related works.  
+
+**Key skills
+💬 C, C++, C#, Java, Python, SQL, Basic Image Processing, Basic Networking, XML, JAXB, Maven
+
+📖 Flask, Web Development(Beginner), JavaFX, JPA, Problem Solving, Streams, Operating Systems
+
+📖 Data Structures, AI(Beginner), Xamrin(Beginner), Object Oriented Programming
+
+                    
+
+I am really glad to see you here !
+Your are the Visitors since i added this profile
+Please have a look and share your thoughts.
+
+Thank you 🙏 😊
+
 
 <!--
 **MuhammadHassanRazaa/MuhammadHassanRazaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
