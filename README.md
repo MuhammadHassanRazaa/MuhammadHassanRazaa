@@ -29,7 +29,7 @@ A hardworking and resourceful individual seeking to work in a student as a compu
 ### I am really glad to see you here !
 Your are the [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadHassanRazaa.visitor-badge)](https://github.com/MuhammadHassanRazaa) since i added this profile <br>
 
-The green dots on my [**GitHub** profile](https://github.com/MuhammadHassanRazaa=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+The green dots on my [**GitHub** profile](https://github.com/MuhammadHassanRazaa?tab=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊
 
