@@ -17,7 +17,7 @@ A hardworking and resourceful individual seeking to work in a student as a compu
 
 📖 `Flask, Web Development(Beginner), JavaFX, JPA, JAXB, Problem Solving, Streams, Operating Systems`
 
-📖 `Data Structures, AI(Beginner), Xamrin(Beginner), Object Oriented Programming,Agile, Scrum,Trello Table, Firebase
+📖 `Data Structures, AI(Beginner), Xamrin(Beginner), Object Oriented Programming,Agile, Scrum,Trello Table, Firebase`
 
 
 ### I have been working on
