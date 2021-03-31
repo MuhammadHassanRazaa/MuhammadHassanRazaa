@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 
-A hardworking and resourceful individual seeking to work in a student as a computer scientist with the ability to persuade and convince people about computer-related works.  
+A hardworking and resourceful individual seeking to work as a computer scientist with the ability to persuade and convince people about computer-related works.  
 
 
 ### Key skills
