@@ -1,6 +1,6 @@
 ## 🔭 Software Developer/ Problem Solver  
 
-` 😄 Muhammad Hassan` |  `🌱 Debrecen, Hungary` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/sshthassanraza/`
+` 😄 Muhammad Hassan` |  `🌱 Budapest, Hungary` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/sshthassanraza/`
 
 
 
